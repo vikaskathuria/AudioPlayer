@@ -64,7 +64,7 @@ export default class Meditate extends Component {
         if (!selectedSound) {
             alert('Please select sound')
         }else if (!selectedTime) {
-            alert('Please select sound')
+            alert('Please select time')
 
         }
          else {
